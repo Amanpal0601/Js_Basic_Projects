@@ -1,4 +1,5 @@
 To-Do List App (With Local Storage)
+
 📌 Description
 
 A clean and interactive To-Do List application built using HTML, CSS, and Vanilla JavaScript that allows users to add, delete, and manage tasks efficiently. The app uses Local Storage to persist data, ensuring tasks remain saved even after refreshing or closing the browser.
@@ -6,6 +7,7 @@ A clean and interactive To-Do List application built using HTML, CSS, and Vanill
 This project demonstrates client-side state management without any external libraries or frameworks.
 
 🚀 Features
+
 Add new tasks
 Delete tasks
 Mark tasks as completed
@@ -15,12 +17,14 @@ Responsive and modern UI
 Input validation
 
 🛠 Tech Stack
+
 HTML5
 CSS
 JavaScript (ES6)
 Browser Local Storage API
 
 📚 Concepts Used
+
 DOM Manipulation
 Event Handling
 Array Methods (map, filter, forEach)
