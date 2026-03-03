@@ -1,2 +1,3 @@
-# Js_Basic_Projects
-Basic JS projects with core concepts of JavaScript
+## 🚀 JavaScript Mini Projects Collection
+
+This repository contains beginner-to-intermediate level JavaScript projects focused on strengthening core concepts like DOM manipulation, event handling, API integration, and state management.
