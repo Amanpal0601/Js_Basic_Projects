@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
     const errorMessage = document.getElementById('error-message');
 
 
-    const Api_key = "f2c6ae20b97bcca21b4476e75a340ed5" // env enviornmnet 
+    const Api_key = "f2c**6a**e20b**97b**c*ca**21b4**476*e7*5*a**340ed5" // env enviornmnet 
 
     getWeatherbtn.addEventListener('click', async()=>{
        const city = cityInput.value.trim(); // agar city name se koi input ki value leh rahe hote hai toh saare extra spaces cut out ho jaaye taaki API call meh dikkat naa aaaye 
@@ -76,4 +76,5 @@ document.addEventListener("DOMContentLoaded", ()=>{
     
     
     
+
 })
