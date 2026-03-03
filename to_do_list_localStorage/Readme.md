@@ -7,7 +7,6 @@ A clean and interactive To-Do List application built using HTML, CSS, and Vanill
 This project demonstrates client-side state management without any external libraries or frameworks.
 
 🚀 Features
-
 Add new tasks
 
 Delete tasks
@@ -33,7 +32,6 @@ JavaScript (ES6)
 Browser Local Storage API
 
 📚 Concepts Used
-
 DOM Manipulation
 
 Event Handling
@@ -47,7 +45,6 @@ Local Storage API
 State management using arrays
 
 🧠 What I Learned
-
 How to persist frontend data without a backend
 
 Managing application state in JavaScript
